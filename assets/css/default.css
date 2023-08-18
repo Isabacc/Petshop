@@ -1,0 +1,13 @@
+@import url("header_footer.css");
+
+/************* RESET *************/
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
