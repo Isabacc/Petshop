@@ -22,6 +22,8 @@ header nav a:hover {
 
 #nome :nth-child(3) {
     position: relative;
+    top: -2rem;
+    left: 45%;
 }
 
 #nome:hover {
