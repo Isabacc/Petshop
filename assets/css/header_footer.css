@@ -7,13 +7,21 @@ header nav {
 }
 
 
+
 header nav a:hover {
     text-decoration: underline;
 }
 
-#nome {
+
+
+#nome :first-child {
     font-family: 'Bodoni Moda', 'Times New Roman', Times, serif;
     font-size: 5rem;
+    text-align: center;
+}
+
+#nome :nth-child(3) {
+    position: relative;
 }
 
 #nome:hover {
