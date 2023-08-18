@@ -1,4 +1,31 @@
+/************* HEADER *************/
+
 header nav {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+#nome {
+    font-family: 'Bodoni Moda', 'Times New Roman', Times, serif;
+    font-size: 5rem;
+}
+
+#nome:hover {
+    text-decoration: none;
+}
+
+
+
+
+/************* FOOTER *************/
+
+footer {
+    text-align: center;
+    font-size: 0.6rem;
 }

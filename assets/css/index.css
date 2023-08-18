@@ -1,9 +1,5 @@
-@import url("default.css");
+
 
 
 /************* bagunça pra rascunhar *************/
 
-header, main, footer {
-    background-color: gray;
-    border: solid 1px black;
-}

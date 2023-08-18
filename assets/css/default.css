@@ -1,4 +1,4 @@
-@import url("header_footer.css");
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz@6..96&family=Quicksand:wght@300;400;700&display=swap');
 
 /************* RESET *************/
 
@@ -9,5 +9,8 @@
     text-decoration: none;
     box-sizing: border-box;
     overflow-x: hidden;
+
+    font-family: 'Quicksand', sans-serif;
+    color: #0097B2;
 }
 
