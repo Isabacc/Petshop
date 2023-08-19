@@ -4,13 +4,20 @@ header nav ul {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 
 
+header nav a {
+    display: block;
+    padding: 20px;
+}
+
+
 header nav a:hover {
     text-decoration: underline;
-    text-underline-offset: 3px;
+    text-underline-offset: 8px;
 }
 
 
