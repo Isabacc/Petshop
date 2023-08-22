@@ -6,4 +6,5 @@ main {
     background-repeat: no-repeat;
     background-size: 100vw;
     background-position: left top;
+    min-height: 75vh;
 }
