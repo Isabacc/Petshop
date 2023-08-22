@@ -1,3 +1,15 @@
+header {
+  position: absolute;
+  top: 0;
+  width: 100vw;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100vw;
+}
+
 #spa-page {
   position: relative;
 }
