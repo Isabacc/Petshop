@@ -14,3 +14,10 @@
     color: #0097B2;
 }
 
+.hiden {
+    display: none;
+}
+
+.visible {
+    display: block!important;
+}
