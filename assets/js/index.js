@@ -2,9 +2,7 @@ const loadComponent = async (pathHMTL, domElement) => {
     let arq = await fetch(pathHMTL);
     let component = await arq.text();
 
-    document
-        .querySelector(domElement)
-        .insertAdjacentHTML("beforeend", component);
+    document.querySelector(domElement).insertAdjacentHTML("beforeend", component);
 }
 
 await loadComponent("assets/components/footer.html", "footer");
