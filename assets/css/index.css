@@ -1,5 +1,9 @@
 
-
-
-/************* bagunça pra rascunhar *************/
-
+main {
+    padding: 30rem 3rem 3rem 3rem;
+    background-color: #eaebf0;
+    background-image: url("../img/bg_index.jpg");
+    background-repeat: no-repeat;
+    background-size: 100vw;
+    background-position: left top;
+}
